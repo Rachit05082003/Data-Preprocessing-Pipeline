@@ -14,7 +14,6 @@ To install the Data Preprocessing Pipeline, clone the repository and install the
 ```bash
 git clone https://github.com/Rachit05082003/Data-Preprocessing-Pipeline.git
 cd Data-Preprocessing-Pipeline
-pip install -r requirements.txt
 ```
 
 ## Usage
